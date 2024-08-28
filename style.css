@@ -449,7 +449,7 @@ p {
 }
 
 #education .education-item.rj-college {
-    background-image: url(./img/rj-college.jpeg);
+    background-image: url("./img/rj-college.jpeg");
 }
 
 #education .education-item.maa-durga {
